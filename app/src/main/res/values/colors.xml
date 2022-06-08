@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#080D20</color>
+    <color name="secondary_color">#7C7C7C</color>
+    <color name="color_keyboard">#000000</color>
+    <color name="hint_text">#5B5959</color>
+    <color name="main_info">#FFFFFF</color>
+    <color name="hint_text_fragment">#7C7C7C</color>
+    <color name="btn_color">#555F89</color>
+    <color name="del_btn_color">#F3A734</color>
+    <color name="category_color">#D9D9D9</color>
+    <color name="background_fragments">#656B8A</color>
+</resources>
